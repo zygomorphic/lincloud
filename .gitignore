@@ -1,4 +1,4 @@
-/target
-/.vscode
-/lin_home
+target/
+.vscode/
+lin_home/
 Cargo.lock
